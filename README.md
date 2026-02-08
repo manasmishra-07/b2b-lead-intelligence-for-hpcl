@@ -12,6 +12,10 @@ An intelligent lead generation system that automatically discovers high-quality 
 
 ---
 
+Link to the project - https://youtu.be/iaFxQCjqLbs?si=0X3VVUnLqPGII1zV
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
